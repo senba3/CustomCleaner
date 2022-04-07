@@ -1,5 +1,6 @@
 [
   {
+    "doing": "自信のsenba.clearのスコアをCountにする"
     "function": "minecraft:set_count",
     "count": {
       "type": "minecraft:score",
